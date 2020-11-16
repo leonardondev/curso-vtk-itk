@@ -20,7 +20,7 @@ Tcl
 
 Tk
   ```bash
-    sudo apt install tk
+  sudo apt install tk
   ```
 <!-- 
 VTk
